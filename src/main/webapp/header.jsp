@@ -124,7 +124,7 @@
 		    <div class="navbar-end">
 		      <div class="navbar-item">
 		        <div class="buttons">
-		          <a class="button is-primary">
+		          <a class="button is-primary" href="./member/join.jsp">
 		            <strong>회원가입</strong>
 		          </a>
 		          <a class="button is-light">
@@ -156,7 +156,7 @@
 		          <a class="button is-primary">
 		            <strong>글 관리</strong>
 		          </a>
-		          <a class="button is-light">
+		          <a class="button is-light" href="./member/getMemberList.jsp">
 		            회원관리
 		          </a>
 		          <a class="button is-light">

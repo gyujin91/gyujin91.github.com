@@ -46,5 +46,5 @@ insert into member values('bbbb', '4343', 'bbbb@naver.com', '010-1578-4344', '�
 insert into member values('cccc', '2222', 'cccc@naver.com', '010-1248-7587', '서울시 구로구', sysdate, '1988-05-19', 5, 1);
 insert into member values('dddd', '1515', 'dddd@naver.com', '010-5353-3015', '서울시 강남구', sysdate, '1989-10-12', 5, 1);
 
-
+select * from member;
 commit;
